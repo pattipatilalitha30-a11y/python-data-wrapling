@@ -1,0 +1,117 @@
+===========================================================================
+ CUSTOMER SALES DATA CLEANING AND ANALYSIS REPORT
+ Week 3: Python Basics, Pandas Wrangling & Data Visualization
+===========================================================================
+
+1. DATA WRANGLING & CLEANING SUMMARY
+--------------------------------------------------
+Initial Raw Records:            125
+Duplicate Rows Removed:         10
+Corrupted/Filtered Rows:        10
+Final Cleaned Records:          105
+Imputed Missing/Outlier Age:    Median (44 years)
+Imputed Missing/Outlier Rating: Median (4.0 / 5.0)
+
+2. OVERALL SALES & PERFORMANCE KPIS
+--------------------------------------------------
+Total Sales Revenue:            $25,068.07
+Average Order Value:            $238.74
+Median Order Value:             $165.00
+Total Quantity Sold:            304 units
+Total Completed Transactions:   105
+Unique Customers:               42
+Average Customer Rating:        4.04 / 5.00
+
+3. SALES BY PRODUCT CATEGORY
+--------------------------------------------------
+                   Total_Sales  Order_Count  Avg_Sales
+Category                                              
+Electronics            9650.61           23     419.59
+Fashion & Apparel      4727.00           29     163.00
+Office Supplies        3877.96           13     298.30
+Home & Kitchen         3600.00           20     180.00
+Sports & Fitness       3212.50           20     160.62
+
+4. TOP 10 PRODUCTS BY REVENUE
+--------------------------------------------------
+                   Total_Sales  Total_Quantity  Avg_Price
+Product                                                  
+Tablet                 5939.82              18     329.99
+Desk Chair             3420.00              19     180.00
+Running Shoes          2090.00              19     110.00
+Denim Jacket           1564.00              23      68.00
+Backpack               1540.00              28      55.00
+Bluetooth Speaker      1422.00              18      79.00
+Smart Watch            1199.94               6     199.99
+Toaster                 980.00              28      35.00
+Sneakers                855.00               9      95.00
+Coffee Maker            850.00              10      85.00
+
+5. TOP 10 CUSTOMERS BY TOTAL SPENDING
+--------------------------------------------------
+                              Total_Spent  Order_Count  Avg_Order_Value
+Customer_ID Customer_Name                                              
+CUST045     Patricia Brown        2433.92            4           608.48
+CUST036     Andrew Thompson       1523.47            5           304.69
+CUST011     James Garcia          1354.96            3           451.65
+CUST038     Betty Lee             1300.00            4           325.00
+CUST037     Susan Lee             1184.47            4           296.12
+CUST020     Lisa Jackson           975.98            2           487.99
+CUST043     Lisa Davis             965.00            3           321.67
+CUST015     Michael Lopez          914.95            4           228.74
+CUST004     Jennifer Jackson       900.00            1           900.00
+CUST028     Robert Martin          898.00            3           299.33
+
+6. SALES BY CITY
+--------------------------------------------------
+               Total_Sales  Order_Count  Avg_Sales
+City                                              
+New York           7300.90           24     304.20
+Miami              4982.41           17     293.08
+San Francisco      4163.43           15     277.56
+Seattle            3014.48           17     177.32
+Houston            2448.38           12     204.03
+Chicago            1976.98           10     197.70
+Los Angeles        1181.49           10     118.15
+
+7. SALES BY PAYMENT METHOD
+--------------------------------------------------
+                  Total_Sales  Transaction_Count
+Payment_Method                                  
+PayPal                7272.44                 29
+Cash on Delivery      7240.93                 28
+Credit Card           6206.35                 25
+Debit Card            4348.35                 23
+
+8. MONTHLY SALES REVENUE TREND (2023)
+--------------------------------------------------
+             Total_Sales  Order_Count  Total_Quantity
+Order_Month                                          
+2023-01          2106.95           13              32
+2023-02          4211.91            8              25
+2023-03          1041.48            7              12
+2023-04          2381.94            9              29
+2023-05          2414.92            9              27
+2023-06          1232.99            6              17
+2023-07          2227.47            7              25
+2023-08          1529.00            8              33
+2023-09          1637.97            6              17
+2023-10          2140.98           13              36
+2023-11          1518.50            8              23
+2023-12          2623.96           11              28
+
+9. CUSTOMER SPENDING SEGMENTS
+--------------------------------------------------
+                  Order_Count  Total_Sales  Avg_Sales
+Customer_Segment                                     
+High                       32     16645.77     520.18
+Medium                     36      6231.86     173.11
+Low                        37      2190.44      59.20
+
+10. KEY INSIGHTS & TAKEAWAYS
+--------------------------------------------------
+- Highest Performing Category: Electronics with $9,650.61 in sales.
+- Best-Selling Product:         Tablet generating $5,939.82.
+- Top Geographical Market:      New York generating $7,300.90.
+- Overall Customer Sentiment:   Positive with an average rating of 4.04/5.0.
+===========================================================================

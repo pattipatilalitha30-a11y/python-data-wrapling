@@ -1,0 +1,126 @@
+Customer_ID,Customer_Name,Age,Gender,City,Product,Category,Quantity,Unit_Price,Order_Date,Payment_Method,Rating,Sales
+CUST041,Paul Rodriguez,56,M,san francisco,Denim Jacket,FASHION & APPAREL,4,68.0,07/20/2023,CASH,4.0,136.0
+CUST036,Andrew Thompson,39,Male,san francisco,Tablet, ELECTRONICS ,3,329.99,2023.02.10,COD,4.2,659.98
+CUST001,Linda Smith,36,female, MIAMI,Blender,Home & Kitchen,5,$45.50,07-10-2023,PAYPAL,5.0,91.0
+CUST011,James Garcia,63,, MIAMI,Smart Watch, ELECTRONICS ,1,199.99,2023-02-12,Debit Card,3.0,$399.98
+CUST016,Joshua Rodriguez,21,male, NEW YORK ,Sunglasses,Fashion & Apparel,2, 30.00 ,03/22/2023,CASH,3.5,
+CUST017,Sandra Moore,26,,Seattle ,Sunglasses,Fashion & Apparel,2,$30.00,2023.12.10,cash on delivery,4,60.0
+CUST034,John Hernandez,44,,New York ,Coffee Maker,home & kitchen, 3 ,85.0,19-01-2023,paypal,3.0,170.0
+CUST005,John Smith,24,Male,LOS ANGELES, Mechanical Keyboard ,Electronics,1,119.5,2023-09-08,DEBIT_CARD,4.2,$239.00
+CUST014,Michael Williams,43,,Los Angeles,Desk Lamp, Office Supplies ,2.0,$38.00,07/07/2023,Credit Card,4.8,76.0
+CUST028,Robert Martin,59,F,Houston ,Denim Jacket,fashion & apparel,1, 68.00 ,2023.01.13,Debit Card,3.5,136.0
+CUST013,Elizabeth Miller,40,Female,Seattle,Backpack,Fashion & Apparel,2,55.0,15-05-2023,PayPal,4.2,110.0
+CUST036,Andrew Thompson,,male,new york,Desk Chair,Office Supplies,2,$180.00,2023-03-14,cash,3,$360.00
+CUST026,Daniel Miller,61,Male,los angeles,Backpack,Fashion & Apparel,3,55.0,08/10/2023,CASH,4.8,110.0
+CUST032,Emily Davis,62,M, Los Angeles,Yoga Mat,sports & fitness,,25.0,2023.10.24,CREDIT_CARD,3.0,50.0
+cust004,Jennifer Jackson,46,, MIAMI,Desk Chair,office supplies,5,$180.00,28-02-2023,PayPal,4.5,360.0
+CUST005,John Smith,24,Female,houston, Bluetooth Speaker ,electronics,5,79.0,2023-01-20,Credit Card ,4.8,$158.00
+CUST038,Betty Lee,48,,,Running Shoes,SPORTS & FITNESS,3,110.0,04/09/2023,COD,4.8,220.0
+CUST042,MARGARET JACKSON,44,female,Miami,Yoga Mat,Sports & Fitness,2.0,$25.00,2023.10.19,Credit Card,5,50.0
+CUST014,Michael Williams,43,,Chicago,Coffee Maker,HOME & KITCHEN,2,85.0,10-06-2023, PayPal ,,170.0
+CUST035,Sarah Williams,32,female,Seattle ,Ergonomic Mousepad,Office Supplies,3, 16.00 ,2023-11-04,PAYPAL,3.0,$32.00
+CUST007,Joshua Smith,54,,Los Angeles,Resistance Bands,SPORTS & FITNESS, 2 ,$15.00,12/11/2023,PAYPAL,4.5,30.0
+CUST032,  Emily Davis  ,62,female,new york,Mechanical Keyboard,Electronics ,1,119.5,2023.01.11,PAYPAL,3.5,239.0
+CUST029,David Moore,65,,San Francisco ,Denim Jacket,FASHION & APPAREL,1,,23-02-2023,PayPal,5.0,150.0
+CUST024,Sarah Anderson,59,,Los Angeles, Denim Jacket ,Fashion & Apparel,3,$68.00,2023-06-26,CREDIT_CARD,3,$136.00
+ CUST044 ,Steven Thomas,24,Female,san francisco,Bluetooth Speaker, ELECTRONICS ,4, 79.00 ,10/24/2023,paypal,5.0,158.0
+CUST011,James Garcia,63,M,Houston ,Tablet,electronics,3,329.99,2023.07.26,PAYPAL,3.5,659.98
+CUST045,Patricia Brown,28,male,houston,Gaming Mouse,Electronics ,1.0,$49.99,12-08-2023,Debit Card,3.5,99.98
+CUST002,Jessica Davis,27,Female,houston,Yoga Mat,SPORTS & FITNESS, 3 ,25.0,2023-06-21,CASH,4.0,$50.00
+CUST002,Jessica Davis,27,male,Chicago,Coffee Maker,HOME & KITCHEN,-1,85.0,02/20/2023,cash on delivery,4.8,170.0
+cust021,Robert Johnson,61,Other,Seattle ,Notebook Pack,Office Supplies,5,$12.50,2023.04.09,Credit Card ,3,25.0
+CUST034,John Hernandez,44,,san francisco,Chef Knife Set,HOME & KITCHEN,1,65.0,11-11-2023,DEBIT_CARD,5.0,
+CUST008,Richard Thompson,60,female, MIAMI, Dumbbell Set ,Sports & Fitness ,4,75.0,2023-12-10,paypal,4.2,$150.00
+CUST043,Lisa Davis,-5,Other,san francisco,Chef Knife Set,HOME & KITCHEN,5,$65.00,01/10/2023,Debit Card,4.2,130.0
+CUST038,Betty Lee,48,F,Miami,Sneakers,fashion & apparel,5,95.0,2023.08.26,PayPal,4.0,190.0
+CUST033,Christopher Johnson,33,F, NEW YORK ,Air Fryer,HOME & KITCHEN, 2 , 120.00 ,01-03-2023,credit card,4.2,240.0
+CUST040,JESSICA WHITE,54,male,Miami,Sunglasses,FASHION & APPAREL,1.0,$30.00,2023-12-23,cash,4,$60.00
+CUST016,Joshua Rodriguez,21,M,San Francisco,Smart Watch,Electronics,2,199.99,03/26/2023,Cash on Delivery,4.5,399.98
+CUST016,Joshua Rodriguez,21,male,Miami,Toaster, Home & Kitchen ,5,35.0,2023.10.11,,5.0,70.0
+CUST033,Christopher Johnson,33,Other,Seattle,Backpack,Fashion & Apparel,4,$55.00,25-05-2023,PAYPAL,5.0,110.0
+CUST034,John Hernandez,44,,San Francisco, Chef Knife Set ,HOME & KITCHEN,1, 65.00 ,2023-12-10,PAYPAL,4.0,$130.00
+CUST021,Robert Johnson,61,, NEW YORK ,Air Fryer,home & kitchen,4,-20.0,12/05/2023,PayPal,4.2,-40.0
+CUST027,Sarah Thompson,62,F,Seattle,Denim Jacket,fashion & apparel, 2 ,$68.00,2023.07.13,Credit Card ,4,136.0
+CUST001,Linda Smith,36,F,chicago,Sunglasses,fashion & apparel,5,30.0,08-10-2023,COD,4.0,60.0
+CUST028,  Robert Martin  ,59,,New York,Backpack,fashion & apparel,2,55.0,2023-08-05,Credit Card ,4.5,$110.00
+cust037,Susan Lee,,Male, NEW YORK ,Backpack,Fashion & Apparel,1.0,$55.00,01/09/2023,cash on delivery,3.5,110.0
+CUST030,Jessica Garcia,48,F, CHICAGO ,Backpack,fashion & apparel,3,55.0,2023.02.16,Credit Card,4.0,110.0
+CUST015,Michael Lopez,41,male,San Francisco,Gaming Mouse,Electronics,2,49.99,20-01-2023,paypal,3.5,99.98
+CUST031,Matthew Rodriguez,59,male,seattle, Blender , Home & Kitchen ,3,$45.50,2023-03-20,credit card,6.0,$91.00
+CUST020,Lisa Jackson,31,male,seattle,Bluetooth Speaker, ELECTRONICS , 4 ,79.0,07/23/2023,PayPal,4.5,158.0
+ CUST045 ,Patricia Brown,28,Female,   ,Tablet, ELECTRONICS ,5, 329.99 ,2023.02.26,CREDIT_CARD,4.5,659.98
+CUST028,Robert Martin,59,F, NEW YORK ,Desk Chair,OFFICE SUPPLIES,4,$180.00,04-08-2023,cash on delivery,4.8,360.0
+CUST030,Jessica Garcia,48,M,Houston ,Toaster,HOME & KITCHEN,5,35.0,2023-08-15,CASH,4.0,$70.00
+CUST021,Robert Johnson,61,Female, NEW YORK ,Running Shoes,Sports & Fitness ,4,110.0,10/20/2023,cash on delivery,3.0,220.0
+CUST032,EMILY DAVIS,62,F,los angeles,Hoodie,Fashion & Apparel,2.0,$42.00,2023.06.09,DEBIT_CARD,3,84.0
+CUST034,John Hernandez,44,Female, NEW YORK ,Chef Knife Set, Home & Kitchen ,5, 65.00 ,invalid_date,cash,4.2,130.0
+CUST002,Jessica Davis,27,male,chicago, Air Fryer , Home & Kitchen , 3 ,120.0,2023-11-19,debit card,4.5,$240.00
+CUST034,John Hernandez,44,F,Houston ,Monitor Stand,OFFICE SUPPLIES,4,$29.99,05/10/2023,Debit Card,3.0,59.98
+CUST013,Elizabeth Miller,40,F,New York ,Desk Lamp,office supplies,,38.0,2023.04.24,cash on delivery,4.8,76.0
+CUST038,Betty Lee,48,,Seattle ,Running Shoes,Sports & Fitness,3,110.0,12-04-2023,PAYPAL,3.0,220.0
+cust035,Sarah Williams,32,M,Chicago,Bluetooth Speaker,Electronics,3,$79.00,2023-12-05,Cash on Delivery,3,$158.00
+CUST037,Susan Lee,50,female,miami,Hoodie,fashion & apparel,2,42.0,01/09/2023,Cash on Delivery,5.0,84.0
+CUST005,John Smith,24,Other,miami,Gaming Mouse,Electronics,2,49.99,2023.10.10,credit card,3.0,
+CUST036,Andrew Thompson,39,Other,Seattle ,Ergonomic Mousepad,office supplies, 4 ,$16.00,15-08-2023,DEBIT_CARD,4.2,32.0
+CUST020,Lisa Jackson,31,Male,Seattle , Tablet ,electronics,2,329.99,2023-05-22,credit card,3.5,$659.98
+CUST012,Margaret Hernandez,36,, NEW YORK ,Chef Knife Set,Home & Kitchen,4, 65.00 ,12/20/2023,cash on delivery,3.0,130.0
+CUST015,  Michael Lopez  ,145,female,San Francisco ,Yoga Mat,Sports & Fitness ,2,$25.00,2023.05.26, PayPal ,3,50.0
+CUST035,Sarah Williams,32,Female,San Francisco,Air Fryer,HOME & KITCHEN,1,,06-01-2023,DEBIT_CARD,4.8,150.0
+CUST037,Susan Lee,50,female,Miami,Tablet,Electronics ,3,329.99,2023-12-13,DEBIT_CARD,4.5,$659.98
+CUST032,Emily Davis,62,, NEW YORK ,Notebook Pack,Office Supplies,3,$12.50,10/09/2023,Credit Card,3.5,25.0
+CUST044,Steven Thomas,24,Male,san francisco,Running Shoes,Sports & Fitness, 4 , 110.00 ,2023.09.21,cash on delivery,3.5,220.0
+CUST038,Betty Lee,48,Other,San Francisco,Backpack,Fashion & Apparel,3,55.0,11-07-2023,DEBIT_CARD,3.0,110.0
+CUST011,JAMES GARCIA,63,F,Houston , Backpack ,fashion & apparel,3.0,$55.00,2023-01-15,CREDIT_CARD,4,$110.00
+CUST021,Robert Johnson,61,male,,Denim Jacket,FASHION & APPAREL,5,68.0,08/14/2023,credit card,4.5,136.0
+CUST024,Sarah Anderson,59,,San Francisco,Sneakers,Fashion & Apparel,3,95.0,2023.09.05,debit card,,190.0
+cust045,Patricia Brown,28,,New York ,Tablet,electronics,2,$329.99,18-05-2023,Credit Card ,3.0,659.98
+CUST015,Michael Lopez,41,male,Miami,Smart Watch,electronics,3,199.99,2023-09-23,debit card,5.0,$399.98
+,Matthew Rodriguez,59,,LOS ANGELES,Sneakers,FASHION & APPAREL, 4 ,95.0,04/20/2023,PayPal,4.0,190.0
+CUST027,Sarah Thompson,62,F, MIAMI,Dumbbell Set,Sports & Fitness,3,$75.00,2023.10.19,COD,4,150.0
+CUST035,Sarah Williams,32,,Houston,Water Bottle,Sports & Fitness ,3,18.5,23-04-2023, PayPal ,3.5,37.0
+CUST027,Sarah Thompson,62,Male, CHICAGO , Backpack ,FASHION & APPAREL,4, 55.00 ,2023-11-26, PayPal ,3.0,$110.00
+CUST009,Paul Wilson,33,,seattle,Water Bottle,Sports & Fitness,1.0,$18.50,09/15/2023,credit card,4.2,37.0
+CUST042,Margaret Jackson,44,M, NEW YORK ,Hoodie,fashion & apparel,0,42.0,2023.10.23,Cash on Delivery,5.0,84.0
+CUST022,Joseph Martinez,24,,houston,Resistance Bands,Sports & Fitness ,1,15.0,03-10-2023,PAYPAL,3.5,30.0
+CUST006,Susan Davis,51,Other,New York ,Gaming Mouse,Electronics , 3 ,$49.99,2023-01-02,Debit Card,4,$99.98
+CUST023,Joseph Brown,43,F,Houston ,Toaster,home & kitchen,4, 35.00 ,10/22/2023,,3.5,70.0
+CUST006,Susan Davis,51,Other,Seattle ,Toaster, Home & Kitchen ,2,35.0,2023.04.15,debit card,4.0,70.0
+CUST043,Lisa Davis,27,Male,Miami,Yoga Mat,sports & fitness,4,$25.00,19-06-2023,DEBIT_CARD,4.2,50.0
+CUST045,  Patricia Brown  ,28,female,Miami, Water Bottle ,sports & fitness,4,18.5,2023-02-08,CASH,4.0,$37.00
+CUST037,Susan Lee,50,female,San Francisco ,Water Bottle,Sports & Fitness,3,18.5,01/19/2023,Credit Card ,5.0,37.0
+cust019,CHARLES LEE,58,Female,Seattle ,Running Shoes,sports & fitness,3.0,$110.00,2023.05.22,PayPal,5,220.0
+CUST042,Margaret Jackson,44,Male,chicago,Sunglasses,Fashion & Apparel, 3 ,30.0,05-12-2023,CREDIT_CARD,4.0,60.0
+CUST027,Sarah Thompson,,M, Los Angeles,Toaster,HOME & KITCHEN,5,35.0,2023-05-27,PAYPAL,5.0,$70.00
+CUST031,Matthew Rodriguez,59,female, CHICAGO ,Wireless Headphones,Electronics ,2,$99.99,04/28/2023,CASH,4.0,199.98
+CUST006,Susan Davis,51,Other,New York,Water Bottle,Sports & Fitness,3,18.5,2023.11.24,DEBIT_CARD,-1.0,37.0
+CUST025,Lisa Garcia,42,F,New York ,Coffee Maker, Home & Kitchen ,5, 85.00 ,11-09-2023,PayPal,4.8,170.0
+CUST030,Jessica Garcia,48,female,San Francisco, Sneakers ,Fashion & Apparel,1,$95.00,2023-01-10,Cash on Delivery,3,$190.00
+CUST016,Joshua Rodriguez,21,,Los Angeles,Hoodie,fashion & apparel,5,42.0,07/19/2023, PayPal ,4.8,84.0
+CUST007,Joshua Smith,54,,Seattle ,Denim Jacket,fashion & apparel, 3 ,68.0,2023.04.15,COD,5.0,136.0
+CUST024,Sarah Anderson,59,male,san francisco,Yoga Mat,SPORTS & FITNESS,2.0,$25.00,,Credit Card ,3.0,50.0
+ CUST043 ,Lisa Davis,27,Female,San Francisco,Desk Chair,Office Supplies,3, 180.00 ,2023-04-05,PayPal,5.0,$360.00
+CUST036,Andrew Thompson,39,Female,seattle,Blender,home & kitchen,2,45.5,10/01/2023,Debit Card,3.5,
+CUST035,Sarah Williams,32,female,los angeles,Gaming Mouse,Electronics,1,$49.99,2023.06.26,PAYPAL,3,99.98
+CUST012,Margaret Hernandez,36,female,new york,Toaster, Home & Kitchen ,1,35.0,03-12-2023,cash,5.0,70.0
+CUST024,Sarah Anderson,59,,seattle, Bluetooth Speaker ,Electronics ,2,79.0,2023-10-02,debit card,4.8,$158.00
+cust002,Jessica Davis,27,Male,miami,Denim Jacket,fashion & apparel, 4 ,$68.00,12/15/2023,Credit Card,4.0,136.0
+CUST039,Elizabeth Rodriguez,27,M, NEW YORK ,Toaster,HOME & KITCHEN,5,35.0,2023.09.23,debit card,4.5,70.0
+CUST034,John Hernandez,44,female,Miami,Desk Chair, Office Supplies ,1,180.0,21-11-2023, PayPal ,4.2,360.0
+CUST015,MICHAEL LOPEZ,41,Other, CHICAGO ,Backpack,fashion & apparel,3.0,$55.00,2023-02-11,cash on delivery,5,$110.00
+CUST017,Sandra Moore,26,F,Los Angeles,Denim Jacket,Fashion & Apparel,1,68.0,02/14/2023,CREDIT_CARD,5.0,136.0
+CUST009,  Paul Wilson  ,33,,new york,Desk Chair,OFFICE SUPPLIES,4, 180.00 ,2023.06.28,Cash on Delivery,4.0,360.0
+CUST039,Elizabeth Rodriguez,27,female,Houston,Gaming Mouse,electronics,4,$49.99,28-04-2023,CREDIT_CARD,5.0,99.98
+CUST036,Andrew Thompson,39,F,New York , Water Bottle ,sports & fitness, 1 ,18.5,2023-10-22,Debit Card,3.5,$37.00
+CUST018,Matthew Williams,54,female, CHICAGO ,Running Shoes,Sports & Fitness,2,110.0,10/22/2023,Cash on Delivery,3.5,220.0
+CUST041,Paul Rodriguez,56,Male, NEW YORK ,Notebook Pack,office supplies,4,$12.50,2023.08.11,PAYPAL,4,25.0
+CUST021,Robert Johnson,61,male,new york,Toaster,home & kitchen,1, 35.00 ,03-11-2023,debit card,4.8,70.0
+CUST011,James Garcia,63,, MIAMI,Smart Watch, ELECTRONICS ,1,199.99,2023-02-12,Debit Card,3.0,$399.98
+CUST036,Andrew Thompson,,male,new york,Desk Chair,Office Supplies,2,$180.00,2023-03-14,cash,3,$360.00
+ CUST044 ,Steven Thomas,24,Female,san francisco,Bluetooth Speaker, ELECTRONICS ,4, 79.00 ,10/24/2023,paypal,5.0,158.0
+CUST040,JESSICA WHITE,54,male,Miami,Sunglasses,FASHION & APPAREL,1.0,$30.00,2023-12-23,cash,4,$60.00
+CUST031,Matthew Rodriguez,59,male,seattle, Blender , Home & Kitchen ,3,$45.50,2023-03-20,credit card,6.0,$91.00
+CUST037,Susan Lee,50,female,miami,Hoodie,fashion & apparel,2,42.0,01/09/2023,Cash on Delivery,5.0,84.0
+CUST011,JAMES GARCIA,63,F,Houston , Backpack ,fashion & apparel,3.0,$55.00,2023-01-15,CREDIT_CARD,4,$110.00
+CUST006,Susan Davis,51,Other,New York ,Gaming Mouse,Electronics , 3 ,$49.99,2023-01-02,Debit Card,4,$99.98
+CUST042,Margaret Jackson,44,Male,chicago,Sunglasses,Fashion & Apparel, 3 ,30.0,05-12-2023,CREDIT_CARD,4.0,60.0
+CUST039,Elizabeth Rodriguez,27,M, NEW YORK ,Toaster,HOME & KITCHEN,5,35.0,2023.09.23,debit card,4.5,70.0

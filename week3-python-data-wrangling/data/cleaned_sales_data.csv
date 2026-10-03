@@ -1,0 +1,106 @@
+Customer_ID,Customer_Name,Age,Gender,City,Product,Category,Quantity,Unit_Price,Order_Date,Payment_Method,Rating,Total_Sales,Customer_Segment,Order_Month,Order_Year,Day_of_Week,Department,Target_Profit_Margin,Category_Manager,Estimated_Profit
+CUST006,Susan Davis,51,Other,New York,Gaming Mouse,Electronics,3,49.99,2023-01-02,Debit Card,4.0,149.97,Medium,2023-01,2023,Monday,Technology,0.22,Sarah Connor,32.99
+CUST033,Christopher Johnson,33,Female,New York,Air Fryer,Home & Kitchen,2,120.0,2023-01-03,Credit Card,4.2,240.0,Medium,2023-01,2023,Tuesday,Home Living,0.28,Gordon Ramsay,67.2
+CUST037,Susan Lee,44,Male,New York,Backpack,Fashion & Apparel,1,55.0,2023-01-09,Cash on Delivery,3.5,55.0,Low,2023-01,2023,Monday,Lifestyle,0.4,Miranda Priestly,22.0
+CUST037,Susan Lee,50,Female,Miami,Hoodie,Fashion & Apparel,2,42.0,2023-01-09,Cash on Delivery,5.0,84.0,Low,2023-01,2023,Monday,Lifestyle,0.4,Miranda Priestly,33.6
+CUST030,Jessica Garcia,48,Female,San Francisco,Sneakers,Fashion & Apparel,1,95.0,2023-01-10,Cash on Delivery,3.0,95.0,Low,2023-01,2023,Tuesday,Lifestyle,0.4,Miranda Priestly,38.0
+CUST043,Lisa Davis,44,Other,San Francisco,Chef Knife Set,Home & Kitchen,5,65.0,2023-01-10,Debit Card,4.2,325.0,High,2023-01,2023,Tuesday,Home Living,0.28,Gordon Ramsay,91.0
+CUST032,Emily Davis,62,Female,New York,Mechanical Keyboard,Electronics,1,119.5,2023-01-11,PayPal,3.5,119.5,Medium,2023-01,2023,Wednesday,Technology,0.22,Sarah Connor,26.29
+CUST028,Robert Martin,59,Female,Houston,Denim Jacket,Fashion & Apparel,1,68.0,2023-01-13,Debit Card,3.5,68.0,Low,2023-01,2023,Friday,Lifestyle,0.4,Miranda Priestly,27.2
+CUST011,James Garcia,63,Female,Houston,Backpack,Fashion & Apparel,3,55.0,2023-01-15,Credit Card,4.0,165.0,Medium,2023-01,2023,Sunday,Lifestyle,0.4,Miranda Priestly,66.0
+CUST034,John Hernandez,44,Not Specified,New York,Coffee Maker,Home & Kitchen,3,85.0,2023-01-19,PayPal,3.0,255.0,High,2023-01,2023,Thursday,Home Living,0.28,Gordon Ramsay,71.4
+CUST037,Susan Lee,50,Female,San Francisco,Water Bottle,Sports & Fitness,3,18.5,2023-01-19,Credit Card,5.0,55.5,Low,2023-01,2023,Thursday,Athletics,0.35,Michael Jordan,19.42
+CUST005,John Smith,24,Female,Houston,Bluetooth Speaker,Electronics,5,79.0,2023-01-20,Credit Card,4.8,395.0,High,2023-01,2023,Friday,Technology,0.22,Sarah Connor,86.9
+CUST015,Michael Lopez,41,Male,San Francisco,Gaming Mouse,Electronics,2,49.99,2023-01-20,PayPal,3.5,99.98,Low,2023-01,2023,Friday,Technology,0.22,Sarah Connor,22.0
+CUST045,Patricia Brown,28,Female,Miami,Water Bottle,Sports & Fitness,4,18.5,2023-02-08,Cash on Delivery,4.0,74.0,Low,2023-02,2023,Wednesday,Athletics,0.35,Michael Jordan,25.9
+CUST036,Andrew Thompson,39,Male,San Francisco,Tablet,Electronics,3,329.99,2023-02-10,Cash on Delivery,4.2,989.97,High,2023-02,2023,Friday,Technology,0.22,Sarah Connor,217.79
+CUST015,Michael Lopez,41,Other,Chicago,Backpack,Fashion & Apparel,3,55.0,2023-02-11,Cash on Delivery,5.0,165.0,Medium,2023-02,2023,Saturday,Lifestyle,0.4,Miranda Priestly,66.0
+CUST011,James Garcia,63,Not Specified,Miami,Smart Watch,Electronics,1,199.99,2023-02-12,Debit Card,3.0,199.99,Medium,2023-02,2023,Sunday,Technology,0.22,Sarah Connor,44.0
+CUST017,Sandra Moore,26,Female,Los Angeles,Denim Jacket,Fashion & Apparel,1,68.0,2023-02-14,Credit Card,5.0,68.0,Low,2023-02,2023,Tuesday,Lifestyle,0.4,Miranda Priestly,27.2
+CUST030,Jessica Garcia,48,Female,Chicago,Backpack,Fashion & Apparel,3,55.0,2023-02-16,Credit Card,4.0,165.0,Medium,2023-02,2023,Thursday,Lifestyle,0.4,Miranda Priestly,66.0
+CUST045,Patricia Brown,28,Female,New York,Tablet,Electronics,5,329.99,2023-02-26,Credit Card,4.5,1649.95,High,2023-02,2023,Sunday,Technology,0.22,Sarah Connor,362.99
+CUST004,Jennifer Jackson,46,Not Specified,Miami,Desk Chair,Office Supplies,5,180.0,2023-02-28,PayPal,4.5,900.0,High,2023-02,2023,Tuesday,Business,0.25,Pam Beesly,225.0
+CUST022,Joseph Martinez,24,Not Specified,Houston,Resistance Bands,Sports & Fitness,1,15.0,2023-03-10,PayPal,3.5,15.0,Low,2023-03,2023,Friday,Athletics,0.35,Michael Jordan,5.25
+CUST021,Robert Johnson,61,Male,New York,Toaster,Home & Kitchen,1,35.0,2023-03-11,Debit Card,4.8,35.0,Low,2023-03,2023,Saturday,Home Living,0.28,Gordon Ramsay,9.8
+CUST012,Margaret Hernandez,36,Female,New York,Toaster,Home & Kitchen,1,35.0,2023-03-12,Cash on Delivery,5.0,35.0,Low,2023-03,2023,Sunday,Home Living,0.28,Gordon Ramsay,9.8
+CUST036,Andrew Thompson,44,Male,New York,Desk Chair,Office Supplies,2,180.0,2023-03-14,Cash on Delivery,3.0,360.0,High,2023-03,2023,Tuesday,Business,0.25,Pam Beesly,90.0
+CUST031,Matthew Rodriguez,59,Male,Seattle,Blender,Home & Kitchen,3,45.5,2023-03-20,Credit Card,4.0,136.5,Medium,2023-03,2023,Monday,Home Living,0.28,Gordon Ramsay,38.22
+CUST016,Joshua Rodriguez,21,Male,New York,Sunglasses,Fashion & Apparel,2,30.0,2023-03-22,Cash on Delivery,3.5,60.0,Low,2023-03,2023,Wednesday,Lifestyle,0.4,Miranda Priestly,24.0
+CUST016,Joshua Rodriguez,21,Male,San Francisco,Smart Watch,Electronics,2,199.99,2023-03-26,Cash on Delivery,4.5,399.98,High,2023-03,2023,Sunday,Technology,0.22,Sarah Connor,88.0
+CUST043,Lisa Davis,27,Female,San Francisco,Desk Chair,Office Supplies,3,180.0,2023-04-05,PayPal,5.0,540.0,High,2023-04,2023,Wednesday,Business,0.25,Pam Beesly,135.0
+CUST028,Robert Martin,59,Female,New York,Desk Chair,Office Supplies,4,180.0,2023-04-08,Cash on Delivery,4.8,720.0,High,2023-04,2023,Saturday,Business,0.25,Pam Beesly,180.0
+CUST021,Robert Johnson,61,Other,Seattle,Notebook Pack,Office Supplies,5,12.5,2023-04-09,Credit Card,3.0,62.5,Low,2023-04,2023,Sunday,Business,0.25,Pam Beesly,15.62
+CUST038,Betty Lee,48,Not Specified,New York,Running Shoes,Sports & Fitness,3,110.0,2023-04-09,Cash on Delivery,4.8,330.0,High,2023-04,2023,Sunday,Athletics,0.35,Michael Jordan,115.5
+CUST006,Susan Davis,51,Other,Seattle,Toaster,Home & Kitchen,2,35.0,2023-04-15,Debit Card,4.0,70.0,Low,2023-04,2023,Saturday,Home Living,0.28,Gordon Ramsay,19.6
+CUST007,Joshua Smith,54,Not Specified,Seattle,Denim Jacket,Fashion & Apparel,3,68.0,2023-04-15,Cash on Delivery,5.0,204.0,Medium,2023-04,2023,Saturday,Lifestyle,0.4,Miranda Priestly,81.6
+CUST035,Sarah Williams,32,Not Specified,Houston,Water Bottle,Sports & Fitness,3,18.5,2023-04-23,PayPal,3.5,55.5,Low,2023-04,2023,Sunday,Athletics,0.35,Michael Jordan,19.42
+CUST031,Matthew Rodriguez,59,Female,Chicago,Wireless Headphones,Electronics,2,99.99,2023-04-28,Cash on Delivery,4.0,199.98,Medium,2023-04,2023,Friday,Technology,0.22,Sarah Connor,44.0
+CUST039,Elizabeth Rodriguez,27,Female,Houston,Gaming Mouse,Electronics,4,49.99,2023-04-28,Credit Card,5.0,199.96,Medium,2023-04,2023,Friday,Technology,0.22,Sarah Connor,43.99
+CUST034,John Hernandez,44,Female,Houston,Monitor Stand,Office Supplies,4,29.99,2023-05-10,Debit Card,3.0,119.96,Medium,2023-05,2023,Wednesday,Business,0.25,Pam Beesly,29.99
+CUST042,Margaret Jackson,44,Male,Chicago,Sunglasses,Fashion & Apparel,3,30.0,2023-05-12,Credit Card,4.0,90.0,Low,2023-05,2023,Friday,Lifestyle,0.4,Miranda Priestly,36.0
+CUST013,Elizabeth Miller,40,Female,Seattle,Backpack,Fashion & Apparel,2,55.0,2023-05-15,PayPal,4.2,110.0,Medium,2023-05,2023,Monday,Lifestyle,0.4,Miranda Priestly,44.0
+CUST045,Patricia Brown,28,Not Specified,New York,Tablet,Electronics,2,329.99,2023-05-18,Credit Card,3.0,659.98,High,2023-05,2023,Thursday,Technology,0.22,Sarah Connor,145.2
+CUST019,Charles Lee,58,Female,Seattle,Running Shoes,Sports & Fitness,3,110.0,2023-05-22,PayPal,5.0,330.0,High,2023-05,2023,Monday,Athletics,0.35,Michael Jordan,115.5
+CUST020,Lisa Jackson,31,Male,Seattle,Tablet,Electronics,2,329.99,2023-05-22,Credit Card,3.5,659.98,High,2023-05,2023,Monday,Technology,0.22,Sarah Connor,145.2
+CUST033,Christopher Johnson,33,Other,Seattle,Backpack,Fashion & Apparel,4,55.0,2023-05-25,PayPal,5.0,220.0,Medium,2023-05,2023,Thursday,Lifestyle,0.4,Miranda Priestly,88.0
+CUST015,Michael Lopez,44,Female,San Francisco,Yoga Mat,Sports & Fitness,2,25.0,2023-05-26,PayPal,3.0,50.0,Low,2023-05,2023,Friday,Athletics,0.35,Michael Jordan,17.5
+CUST027,Sarah Thompson,44,Male,Los Angeles,Toaster,Home & Kitchen,5,35.0,2023-05-27,PayPal,5.0,175.0,Medium,2023-05,2023,Saturday,Home Living,0.28,Gordon Ramsay,49.0
+CUST032,Emily Davis,62,Female,Los Angeles,Hoodie,Fashion & Apparel,2,42.0,2023-06-09,Debit Card,3.0,84.0,Low,2023-06,2023,Friday,Lifestyle,0.4,Miranda Priestly,33.6
+CUST043,Lisa Davis,27,Male,Miami,Yoga Mat,Sports & Fitness,4,25.0,2023-06-19,Debit Card,4.2,100.0,Medium,2023-06,2023,Monday,Athletics,0.35,Michael Jordan,35.0
+CUST002,Jessica Davis,27,Female,Houston,Yoga Mat,Sports & Fitness,3,25.0,2023-06-21,Cash on Delivery,4.0,75.0,Low,2023-06,2023,Wednesday,Athletics,0.35,Michael Jordan,26.25
+CUST024,Sarah Anderson,59,Not Specified,Los Angeles,Denim Jacket,Fashion & Apparel,3,68.0,2023-06-26,Credit Card,3.0,204.0,Medium,2023-06,2023,Monday,Lifestyle,0.4,Miranda Priestly,81.6
+CUST035,Sarah Williams,32,Female,Los Angeles,Gaming Mouse,Electronics,1,49.99,2023-06-26,PayPal,3.0,49.99,Low,2023-06,2023,Monday,Technology,0.22,Sarah Connor,11.0
+CUST009,Paul Wilson,33,Not Specified,New York,Desk Chair,Office Supplies,4,180.0,2023-06-28,Cash on Delivery,4.0,720.0,High,2023-06,2023,Wednesday,Business,0.25,Pam Beesly,180.0
+CUST014,Michael Williams,43,Not Specified,Los Angeles,Desk Lamp,Office Supplies,2,38.0,2023-07-07,Credit Card,4.8,76.0,Low,2023-07,2023,Friday,Business,0.25,Pam Beesly,19.0
+CUST001,Linda Smith,36,Female,Miami,Blender,Home & Kitchen,5,45.5,2023-07-10,PayPal,5.0,227.5,Medium,2023-07,2023,Monday,Home Living,0.28,Gordon Ramsay,63.7
+CUST027,Sarah Thompson,62,Female,Seattle,Denim Jacket,Fashion & Apparel,2,68.0,2023-07-13,Credit Card,4.0,136.0,Medium,2023-07,2023,Thursday,Lifestyle,0.4,Miranda Priestly,54.4
+CUST016,Joshua Rodriguez,21,Not Specified,Los Angeles,Hoodie,Fashion & Apparel,5,42.0,2023-07-19,PayPal,4.8,210.0,Medium,2023-07,2023,Wednesday,Lifestyle,0.4,Miranda Priestly,84.0
+CUST041,Paul Rodriguez,56,Male,San Francisco,Denim Jacket,Fashion & Apparel,4,68.0,2023-07-20,Cash on Delivery,4.0,272.0,High,2023-07,2023,Thursday,Lifestyle,0.4,Miranda Priestly,108.8
+CUST020,Lisa Jackson,31,Male,Seattle,Bluetooth Speaker,Electronics,4,79.0,2023-07-23,PayPal,4.5,316.0,High,2023-07,2023,Sunday,Technology,0.22,Sarah Connor,69.52
+CUST011,James Garcia,63,Male,Houston,Tablet,Electronics,3,329.99,2023-07-26,PayPal,3.5,989.97,High,2023-07,2023,Wednesday,Technology,0.22,Sarah Connor,217.79
+CUST028,Robert Martin,59,Not Specified,New York,Backpack,Fashion & Apparel,2,55.0,2023-08-05,Credit Card,4.5,110.0,Medium,2023-08,2023,Saturday,Lifestyle,0.4,Miranda Priestly,44.0
+CUST001,Linda Smith,36,Female,Chicago,Sunglasses,Fashion & Apparel,5,30.0,2023-08-10,Cash on Delivery,4.0,150.0,Medium,2023-08,2023,Thursday,Lifestyle,0.4,Miranda Priestly,60.0
+CUST026,Daniel Miller,61,Male,Los Angeles,Backpack,Fashion & Apparel,3,55.0,2023-08-10,Cash on Delivery,4.8,165.0,Medium,2023-08,2023,Thursday,Lifestyle,0.4,Miranda Priestly,66.0
+CUST041,Paul Rodriguez,56,Male,New York,Notebook Pack,Office Supplies,4,12.5,2023-08-11,PayPal,4.0,50.0,Low,2023-08,2023,Friday,Business,0.25,Pam Beesly,12.5
+CUST021,Robert Johnson,61,Male,New York,Denim Jacket,Fashion & Apparel,5,68.0,2023-08-14,Credit Card,4.5,340.0,High,2023-08,2023,Monday,Lifestyle,0.4,Miranda Priestly,136.0
+CUST030,Jessica Garcia,48,Male,Houston,Toaster,Home & Kitchen,5,35.0,2023-08-15,Cash on Delivery,4.0,175.0,Medium,2023-08,2023,Tuesday,Home Living,0.28,Gordon Ramsay,49.0
+CUST036,Andrew Thompson,39,Other,Seattle,Ergonomic Mousepad,Office Supplies,4,16.0,2023-08-15,Debit Card,4.2,64.0,Low,2023-08,2023,Tuesday,Business,0.25,Pam Beesly,16.0
+CUST038,Betty Lee,48,Female,Miami,Sneakers,Fashion & Apparel,5,95.0,2023-08-26,PayPal,4.0,475.0,High,2023-08,2023,Saturday,Lifestyle,0.4,Miranda Priestly,190.0
+CUST024,Sarah Anderson,59,Not Specified,San Francisco,Sneakers,Fashion & Apparel,3,95.0,2023-09-05,Debit Card,4.0,285.0,High,2023-09,2023,Tuesday,Lifestyle,0.4,Miranda Priestly,114.0
+CUST005,John Smith,24,Male,Los Angeles,Mechanical Keyboard,Electronics,1,119.5,2023-09-08,Debit Card,4.2,119.5,Medium,2023-09,2023,Friday,Technology,0.22,Sarah Connor,26.29
+CUST009,Paul Wilson,33,Not Specified,Seattle,Water Bottle,Sports & Fitness,1,18.5,2023-09-15,Credit Card,4.2,18.5,Low,2023-09,2023,Friday,Athletics,0.35,Michael Jordan,6.48
+CUST044,Steven Thomas,24,Male,San Francisco,Running Shoes,Sports & Fitness,4,110.0,2023-09-21,Cash on Delivery,3.5,440.0,High,2023-09,2023,Thursday,Athletics,0.35,Michael Jordan,154.0
+CUST015,Michael Lopez,41,Male,Miami,Smart Watch,Electronics,3,199.99,2023-09-23,Debit Card,5.0,599.97,High,2023-09,2023,Saturday,Technology,0.22,Sarah Connor,131.99
+CUST039,Elizabeth Rodriguez,27,Male,New York,Toaster,Home & Kitchen,5,35.0,2023-09-23,Debit Card,4.5,175.0,Medium,2023-09,2023,Saturday,Home Living,0.28,Gordon Ramsay,49.0
+CUST036,Andrew Thompson,39,Female,Seattle,Blender,Home & Kitchen,2,45.5,2023-10-01,Debit Card,3.5,91.0,Low,2023-10,2023,Sunday,Home Living,0.28,Gordon Ramsay,25.48
+CUST024,Sarah Anderson,59,Not Specified,Seattle,Bluetooth Speaker,Electronics,2,79.0,2023-10-02,Debit Card,4.8,158.0,Medium,2023-10,2023,Monday,Technology,0.22,Sarah Connor,34.76
+CUST014,Michael Williams,43,Not Specified,Chicago,Coffee Maker,Home & Kitchen,2,85.0,2023-10-06,PayPal,4.0,170.0,Medium,2023-10,2023,Friday,Home Living,0.28,Gordon Ramsay,47.6
+CUST032,Emily Davis,62,Not Specified,New York,Notebook Pack,Office Supplies,3,12.5,2023-10-09,Credit Card,3.5,37.5,Low,2023-10,2023,Monday,Business,0.25,Pam Beesly,9.38
+CUST005,John Smith,24,Other,Miami,Gaming Mouse,Electronics,2,49.99,2023-10-10,Credit Card,3.0,99.98,Low,2023-10,2023,Tuesday,Technology,0.22,Sarah Connor,22.0
+CUST016,Joshua Rodriguez,21,Male,Miami,Toaster,Home & Kitchen,5,35.0,2023-10-11,Credit Card,5.0,175.0,Medium,2023-10,2023,Wednesday,Home Living,0.28,Gordon Ramsay,49.0
+CUST027,Sarah Thompson,62,Female,Miami,Dumbbell Set,Sports & Fitness,3,75.0,2023-10-19,Cash on Delivery,4.0,225.0,Medium,2023-10,2023,Thursday,Athletics,0.35,Michael Jordan,78.75
+CUST042,Margaret Jackson,44,Female,Miami,Yoga Mat,Sports & Fitness,2,25.0,2023-10-19,Credit Card,5.0,50.0,Low,2023-10,2023,Thursday,Athletics,0.35,Michael Jordan,17.5
+CUST021,Robert Johnson,61,Female,New York,Running Shoes,Sports & Fitness,4,110.0,2023-10-20,Cash on Delivery,3.0,440.0,High,2023-10,2023,Friday,Athletics,0.35,Michael Jordan,154.0
+CUST018,Matthew Williams,54,Female,Chicago,Running Shoes,Sports & Fitness,2,110.0,2023-10-22,Cash on Delivery,3.5,220.0,Medium,2023-10,2023,Sunday,Athletics,0.35,Michael Jordan,77.0
+CUST023,Joseph Brown,43,Female,Houston,Toaster,Home & Kitchen,4,35.0,2023-10-22,Credit Card,3.5,140.0,Medium,2023-10,2023,Sunday,Home Living,0.28,Gordon Ramsay,39.2
+CUST036,Andrew Thompson,39,Female,New York,Water Bottle,Sports & Fitness,1,18.5,2023-10-22,Debit Card,3.5,18.5,Low,2023-10,2023,Sunday,Athletics,0.35,Michael Jordan,6.48
+CUST044,Steven Thomas,24,Female,San Francisco,Bluetooth Speaker,Electronics,4,79.0,2023-10-24,PayPal,5.0,316.0,High,2023-10,2023,Tuesday,Technology,0.22,Sarah Connor,69.52
+CUST035,Sarah Williams,32,Female,Seattle,Ergonomic Mousepad,Office Supplies,3,16.0,2023-11-04,PayPal,3.0,48.0,Low,2023-11,2023,Saturday,Business,0.25,Pam Beesly,12.0
+CUST038,Betty Lee,48,Other,San Francisco,Backpack,Fashion & Apparel,3,55.0,2023-11-07,Debit Card,3.0,165.0,Medium,2023-11,2023,Tuesday,Lifestyle,0.4,Miranda Priestly,66.0
+CUST025,Lisa Garcia,42,Female,New York,Coffee Maker,Home & Kitchen,5,85.0,2023-11-09,PayPal,4.8,425.0,High,2023-11,2023,Thursday,Home Living,0.28,Gordon Ramsay,119.0
+CUST034,John Hernandez,44,Not Specified,San Francisco,Chef Knife Set,Home & Kitchen,1,65.0,2023-11-11,Debit Card,5.0,65.0,Low,2023-11,2023,Saturday,Home Living,0.28,Gordon Ramsay,18.2
+CUST002,Jessica Davis,27,Male,Chicago,Air Fryer,Home & Kitchen,3,120.0,2023-11-19,Debit Card,4.5,360.0,High,2023-11,2023,Sunday,Home Living,0.28,Gordon Ramsay,100.8
+CUST034,John Hernandez,44,Female,Miami,Desk Chair,Office Supplies,1,180.0,2023-11-21,PayPal,4.2,180.0,Medium,2023-11,2023,Tuesday,Business,0.25,Pam Beesly,45.0
+CUST006,Susan Davis,51,Other,New York,Water Bottle,Sports & Fitness,3,18.5,2023-11-24,Debit Card,4.0,55.5,Low,2023-11,2023,Friday,Athletics,0.35,Michael Jordan,19.42
+CUST027,Sarah Thompson,62,Male,Chicago,Backpack,Fashion & Apparel,4,55.0,2023-11-26,PayPal,3.0,220.0,Medium,2023-11,2023,Sunday,Lifestyle,0.4,Miranda Priestly,88.0
+CUST038,Betty Lee,48,Not Specified,Seattle,Running Shoes,Sports & Fitness,3,110.0,2023-12-04,PayPal,3.0,330.0,High,2023-12,2023,Monday,Athletics,0.35,Michael Jordan,115.5
+CUST035,Sarah Williams,32,Male,Chicago,Bluetooth Speaker,Electronics,3,79.0,2023-12-05,Cash on Delivery,3.0,237.0,Medium,2023-12,2023,Tuesday,Technology,0.22,Sarah Connor,52.14
+CUST045,Patricia Brown,28,Male,Houston,Gaming Mouse,Electronics,1,49.99,2023-12-08,Debit Card,3.5,49.99,Low,2023-12,2023,Friday,Technology,0.22,Sarah Connor,11.0
+CUST008,Richard Thompson,60,Female,Miami,Dumbbell Set,Sports & Fitness,4,75.0,2023-12-10,PayPal,4.2,300.0,High,2023-12,2023,Sunday,Athletics,0.35,Michael Jordan,105.0
+CUST017,Sandra Moore,26,Not Specified,Seattle,Sunglasses,Fashion & Apparel,2,30.0,2023-12-10,Cash on Delivery,4.0,60.0,Low,2023-12,2023,Sunday,Lifestyle,0.4,Miranda Priestly,24.0
+CUST034,John Hernandez,44,Not Specified,San Francisco,Chef Knife Set,Home & Kitchen,1,65.0,2023-12-10,PayPal,4.0,65.0,Low,2023-12,2023,Sunday,Home Living,0.28,Gordon Ramsay,18.2
+CUST007,Joshua Smith,54,Not Specified,Los Angeles,Resistance Bands,Sports & Fitness,2,15.0,2023-12-11,PayPal,4.5,30.0,Low,2023-12,2023,Monday,Athletics,0.35,Michael Jordan,10.5
+CUST037,Susan Lee,50,Female,Miami,Tablet,Electronics,3,329.99,2023-12-13,Debit Card,4.5,989.97,High,2023-12,2023,Wednesday,Technology,0.22,Sarah Connor,217.79
+CUST002,Jessica Davis,27,Male,Miami,Denim Jacket,Fashion & Apparel,4,68.0,2023-12-15,Credit Card,4.0,272.0,High,2023-12,2023,Friday,Lifestyle,0.4,Miranda Priestly,108.8
+CUST012,Margaret Hernandez,36,Not Specified,New York,Chef Knife Set,Home & Kitchen,4,65.0,2023-12-20,Cash on Delivery,3.0,260.0,High,2023-12,2023,Wednesday,Home Living,0.28,Gordon Ramsay,72.8
+CUST040,Jessica White,54,Male,Miami,Sunglasses,Fashion & Apparel,1,30.0,2023-12-23,Cash on Delivery,4.0,30.0,Low,2023-12,2023,Saturday,Lifestyle,0.4,Miranda Priestly,12.0
